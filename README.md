@@ -1,2 +1,2 @@
 # python-course
-python course projects and exercices
+This repository is to store python courses, projects and exercices.
